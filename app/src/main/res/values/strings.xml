@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Kerscher Test App</string>
+    <string name="no_books_image_content_description">No books icon</string>
+    <string name="book_thumbnail_content_description">Book cover thumbnail image</string>
+    <string name="book_cover_content_description">Book cover image</string>
+    <string name="no_books_available">No books available right now.</string>
+    <string name="loading_books_error">Error loading books. Please try again.</string>
+    <string name="loading_book_error">Error while loading book</string>
+    <string name="books_list_title">Latest Books</string>
+    <string name="menu_back">Back</string>
+    <string name="no_data">No data</string>
+    <string name="loading">LOADING</string>
+    <string name="refresh">Refresh</string>
+    <string name="refresh_me_placeholder">Tap to refresh</string>
+    <string name="no_books_found">No Books Found</string>
+    <string name="loading_books">Fetching Latest Books…</string>
+    <string name="no_book_cover_available">No Cover Available</string>
+    <string name="no_book_title_available">No Title Available</string>
+    <string name="no_book_author_available">No Author Available</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="authors_prefix">Authors: %1$s</string>
+    <string name="isbn_prefix">ISBN: %1$s</string>
+    <string name="publisher_prefix">Publisher: %1$s</string>
+    <string name="publish_date_prefix">Publish Date: %1$s</string>
+    <string name="pages_prefix">Pages: %1$d</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="remove_from_wishlist">Remove from Wishlist</string>
+    <string name="book_details_page_header">Book Details</string>
+
+
+
+
+
+
+</resources>
