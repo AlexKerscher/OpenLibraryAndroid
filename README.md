@@ -1,6 +1,6 @@
-# Open Library Anndroid 📚
+# Open Library Android 📚
 
-**Open Library Androids** is a modern Android app built using Jetpack Compose that allows users to explore a list of the "latest" books published in 2025, sourced from the OpenLibrary API. 
+**Open Library Android** is a modern Android app built using Jetpack Compose that allows users to explore a list of the "latest" books published in 2025, sourced from the OpenLibrary API. 
 Users can view detailed information about each book and manage their own wishlist of favorite titles. 
 The app implements state-of-the-art Android development principles such as the MVVM architecture, single-activity design, and Jetpack Compose-first UI development.
 
